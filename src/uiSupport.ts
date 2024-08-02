@@ -28,7 +28,7 @@ export function newComponentRender (content: ContentType): string{
             <title>AI Agent Contract Demo UI by Ese Monday</title>
         </head
         <body>
-            <div align="left">
+            <div align="center">
                 <p>"This show an OpenAI AI Agent Contract hosted on <a href="https://github.com/Phala-Network/ai-agent-template-openai">Phala Network</a>, an AI Coprocessor for hosting AI Agents."</p>
                 <img src="https://i.imgur.com/8B3igON.png" width="600" alt="AI Agent Contract" />
                 <p>${content}</p>
